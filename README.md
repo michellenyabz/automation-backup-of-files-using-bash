@@ -6,6 +6,6 @@ To address this challenge, we can leverage automation through cron jobs and Bash
 
 This repository provides the necessary code and scripts to:
 
-Identify files that have been modified or created since the last backup.
+1.Identify files that have been modified or created since the last backup.
 
-Automate the backup process every 24 hours using cron jobs.
+2.Automate the backup process every 24 hours using cron jobs.
